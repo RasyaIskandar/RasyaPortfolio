@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# RasyaPortfolio
+Portofolio pribadi yang dibuat menggunakan Next.js + TypeScript dengan desain clean dan modern.  Menampilkan kumpulan project, kemampuan teknis, riwayat belajar, dan beberapa showcase UI interaktif.  Didesain responsif, performa tinggi, dan mudah dikembangkan seiring bertambahnya project baru.
+>>>>>>> bbe38407340ac84fe48b083451aa8f0bebf864d0
