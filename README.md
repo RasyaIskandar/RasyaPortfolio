@@ -1,41 +1,51 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# RasyaPortfolio
 
-## Getting Started
+Portofolio pribadi yang menampilkan proyek, skill, pengalaman, dan identitas profesional sebagai seorang Web & Mobile Developer. Dibangun dengan pendekatan modern, clean, dan fokus pada pengalaman visual yang halus.
 
-First, run the development server:
+## ✨ Fitur Utama
+- **Landing Page Modern** — Desain clean, responsif, dan elegan.
+- **Project Showcase 3D** — Carousel interaktif dengan efek flip dan depth (Framer Motion).
+- **Smooth Animations** — Transisi lembut untuk pengalaman browsing yang premium.
+- **Dark/Light Friendly UI** — Desain tetap konsisten di berbagai kondisi tampilan.
+- **Fully Responsive** — Nyaman di device apapun: Laptop, Tablet, Mobile.
+
+## 🛠️ Dibangun Dengan
+| Teknologi | Keterangan |
+|---------|------------|
+| Next.js | Framework React untuk SSR/SSG dan performa tinggi |
+| TypeScript | Menjaga kode lebih aman dan terstruktur |
+| Tailwind CSS | Utility-first CSS untuk styling cepat dan konsisten |
+| Framer Motion | Animasi modern yang smooth dan interaktif |
+| React Icons / Lucide | Ikon ringan dan clean untuk UI |
+
+## 🚀 Cara Menjalankan
+Pastikan Node.js sudah terinstall.
 
 ```bash
+# Install dependencies
+npm install
+
+# Jalankan di local development
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Buka di browser
+http://localhost:3000
+📁 Struktur Direktori
+bash
+Salin kode
+/app
+  /components      → Komponen UI reusable
+  /assets          → Gambar & icon
+  layout.tsx       → Layout global
+  page.tsx         → Landing page utama
+🤝 Kontribusi
+Project ini bersifat personal, tapi tetap terbuka untuk saran dan feedback.
+Silakan buat issue atau pull request.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📄 Lisensi
+MIT — bebas digunakan untuk belajar & pengembangan.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# RasyaPortfolio
-Portofolio pribadi yang dibuat menggunakan Next.js + TypeScript dengan desain clean dan modern.  Menampilkan kumpulan project, kemampuan teknis, riwayat belajar, dan beberapa showcase UI interaktif.  Didesain responsif, performa tinggi, dan mudah dikembangkan seiring bertambahnya project baru.
->>>>>>> bbe38407340ac84fe48b083451aa8f0bebf864d0
+👤 Author
+Rasya Iskandar
+Web & Mobile Developer
+🔗 GitHub: https://github.com/RasyaIskandar
